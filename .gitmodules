@@ -1,0 +1,3 @@
+[submodule "nitzanim"]
+	path = nitzanim
+	url = https://github.com/lidorg-dev/nitzanim-ex.git
